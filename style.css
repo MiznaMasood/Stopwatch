@@ -1,0 +1,9 @@
+*{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+.hour, .min, .sec, .msec{
+    display: inline;
+}
